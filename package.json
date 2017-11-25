@@ -1,0 +1,12 @@
+{
+  "name"         : "snowedIn",
+  "version"      : "0.0.1",
+  "description"  : "Scrape Web and get ski mountain stats.",
+  "main"         : "server.js",
+  "author"       : "Bclouser",
+  "dependencies" : {
+    "express"    : "latest",
+    "request"    : "latest",
+    "cheerio"    : "latest"
+  }
+}
